@@ -7,8 +7,8 @@ Oracle brings the power of AI to the database with Oracle Database 23ai. By now,
 Search, which essentially transforms the Oracle Database into a powerful, best-in-class Vector Database. But there are many more new innovations 
 introduced to support all manner of AI workloads, and best of all, Oracle makes it easy to start using these tools without having to learn any new 
 programming languages or frameworks. All of these AI innovations can be used today without any additional installation necessary, and can be
-accessed using your favorite code editor or IDE. Perhaps there's a problem you are trying to solve with AI today and don't know where to start? This 
-is the session to get you there...
+accessed using your favorite code editor or IDE. Perhaps there's a problem you are trying to solve with 
+AI today and don't know where to start? This is the session to get you there...
 
 In this session, you will learn how to:
 1. Load embedding models into the Oracle database.
