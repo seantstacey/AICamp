@@ -179,13 +179,7 @@ where  p.park_code = pi.park_code
 order  by vector_distance(pi.image_vector, :input_vector)
 fetch first 10 rows only
 
-select * from park_images where image_id = '05F8934E-63ED-403F-A56E-FAE443F1D5D7'
-select * from park_images where upper(title) like ('%HUMPBACK%') ;
-
 create table natPk_output (image_id varchar2(36), url varchar2(75), title varchar2(257), file_name varchar2(46), park_code varchar2(4)) ;
-
--- 
--- AI Camp website- https://events.aicamp.ai/pingcap2023.html
 
 set serveroutput on
 declare 
